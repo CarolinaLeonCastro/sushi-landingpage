@@ -1,4 +1,4 @@
-# sushi-landingpage
+
 # Sushiman - Site Vitrine
 
 Bienvenue dans le projet Sushiman, un site vitrine réalisé avec HTML, CSS et JavaScript pour présenter un restaurant de sushi. 
