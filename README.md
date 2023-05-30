@@ -3,6 +3,9 @@
 
 Bienvenue dans le projet Sushiman, un site vitrine réalisé avec HTML, CSS et JavaScript pour présenter un restaurant de sushi. 
 
+![Sushi-man](/public/Sushiman.png)
+
+
 ## Fonctionnalités
 
 - Affichage d'une page d'accueil attrayante avec des informations sur le restaurant.
@@ -18,4 +21,3 @@ Vous pouvez personnaliser ce site vitrine en effectuant les modifications suivan
 
 Assurez-vous de respecter les meilleures pratiques en matière de développement web pour maintenir un code propre et organisé.
 
-![Sushi-man](/public/Sushiman.png)
